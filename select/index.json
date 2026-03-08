@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Dance for What?",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T06:46:23.964753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dance for What?",
+      "artist": "PeanutsKun",
+      "has_synced": false,
+      "path": "select/01_Dance_for_What_PeanutsKun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance for What?",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_for_What_ピーナッツくん.txt"
+    }
+  ]
+}
